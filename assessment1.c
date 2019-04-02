@@ -15,6 +15,7 @@ int main()
         x = x1 + k*dx ;
         sum = sum + x;
     }
+    //iyuiyiuiuio
     printf (" %f", sum);
     printf (" %d\n", N);//  hello there
 }
