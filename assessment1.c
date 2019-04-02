@@ -16,5 +16,5 @@ int main()
         sum = sum + x;
     }
     printf (" %f", sum);
-    
+    printf (" %d\n", N);//  hello there
 }
