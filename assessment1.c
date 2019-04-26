@@ -1,3 +1,7 @@
+// Soe Minn Htet
+// c3249045
+// Tue Lab (HC-47) 11am-2pm 
+
 #include <stdio.h>
 #include <string.h>
 
@@ -128,7 +132,7 @@ int long main () {
          return 0;
      }
      
-        
+       return 0; 
        }
     }
 }
